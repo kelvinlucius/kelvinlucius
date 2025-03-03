@@ -18,9 +18,17 @@ Integração de sistemas e uso de tecnologias como REST, GraphQL, e WebSockets
 
 
 <div align="center">
-  <a href="https://github.com/kelvinlucius">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelvinlucius&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinlucius&layout=compact&langs_count=7&theme=dark"/>
+  <!-- Título explicativo -->
+  <h3>Estatísticas do GitHub e Linguagens mais Usadas</h3>
+  
+  <!-- Exibindo as estatísticas de contribuições -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelvinlucius&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas de Contribuições"/>
+  
+  <!-- Espaço entre as imagens -->
+  <br><br>
+  
+  <!-- Exibindo as linguagens mais utilizadas -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinlucius&layout=compact&langs_count=7&theme=dark" alt="Linguagens Mais Usadas"/>
 </div>
   
   </div>
