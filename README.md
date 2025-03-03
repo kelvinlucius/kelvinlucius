@@ -1,20 +1,26 @@
-Olá, Eu sou Kelvin 👋
-Sou Desenvolvedor Pleno com experiência em diversas tecnologias, incluindo JavaScript, React, Node.js, e Java. Tenho uma paixão por resolver problemas complexos e criar soluções eficientes e escaláveis. Ao longo da minha carreira, participei de projetos que exigiram agilidade, boas práticas de engenharia de software, e foco no desenvolvimento de soluções que atendam às necessidades dos usuários.
+# Olá, Eu sou Kelvin 👋
 
-🔧 Tecnologias que domino:
+Sou **Desenvolvedor** com experiência em diversas tecnologias, incluindo **JavaScript**, **React**, **Node.js**, **Java** e **C#**. Tenho uma paixão por resolver problemas complexos e criar soluções eficientes e escaláveis. Ao longo da minha carreira, participei de projetos que exigiram agilidade, boas práticas de engenharia de software, e foco no desenvolvimento de soluções que atendam às necessidades dos usuários.
 
-JavaScript (e suas bibliotecas e frameworks como React)
-Node.js para back-end
-Java para desenvolvimento de sistemas robustos
-React para a criação de interfaces dinâmicas e interativas
-💼 Experiência:
+## 🔧 Tecnologias que domino:
+- **JavaScript** (e suas bibliotecas e frameworks como **React**)
+- **Node.js** para back-end
+- **Java** para desenvolvimento de sistemas robustos
+- **React** para a criação de interfaces dinâmicas e interativas
+- **C#** para automação de processos, incluindo a criação de robôs RPA
 
-Desenvolvimento de sistemas e APIs escaláveis
-Criação de interfaces de usuário com alto nível de usabilidade
-Integração de sistemas e uso de tecnologias como REST, GraphQL, e WebSockets
-🚀 Estou sempre aprendendo: Busco estar atualizado com as últimas tendências do desenvolvimento de software e explorar novas ferramentas e tecnologias.
+## 💼 Experiência:
+- Desenvolvimento de **sistemas** e **APIs escaláveis**
+- Criação de **interfaces de usuário** com alto nível de **usabilidade**
+- Integração de sistemas e uso de tecnologias como **REST**, **GraphQL**, e **WebSockets**
+- Desenvolvimento de robôs **RPA** utilizando **C#** para automação de processos repetitivos
 
-📂 Projetos: Você pode ver alguns dos meus projetos e contribuições abaixo. Estou sempre aberto a colaborações e novos desafios!
+## 🚀 Estou sempre aprendendo:
+Busco estar atualizado com as últimas tendências do desenvolvimento de software e explorar novas ferramentas e tecnologias.
+
+## 📂 Projetos:
+Você pode ver alguns dos meus **projetos** e contribuições abaixo. Estou sempre aberto a **colaborações** e **novos desafios**!
+
 
 
 <div align="center">
